@@ -5,6 +5,8 @@
 
 https://github.com/Binaryify/NeteaseCloudMusicApi
 
+只做了简单的播放，搜索等功能，许多接口还没用到，有需要可以去看看，一共有200多个接口，并且还在持续更新
+
 
 ## Project setup
 ```
