@@ -1,5 +1,11 @@
 # mobile-project
 
+
+后台接口使用的是大佬收集的网易API接口
+
+https://github.com/Binaryify/NeteaseCloudMusicApi
+
+
 ## Project setup
 ```
 yarn install
